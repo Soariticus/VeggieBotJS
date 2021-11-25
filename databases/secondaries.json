@@ -1,0 +1,266 @@
+[
+  {
+    "type": "Pistol",
+    "name": "Chimano 88"
+  },
+  {
+    "type": "Pistol",
+    "name": "Crosskill"
+  },
+  {
+    "type": "Pistol",
+    "name": "Bernetti 9"
+  },
+  {
+    "type": "Pistol",
+    "name": "Bronco .44"
+  },
+  {
+    "type": "Pistol",
+    "name": "White Streak"
+  },
+  {
+    "type": "Pistol",
+    "name": "Parabellum"
+  },
+  {
+    "type": "Pistol",
+    "name": "Castigo .44"
+  },
+  {
+    "type": "Pistol",
+    "name": "Crosskill Guard"
+  },
+  {
+    "type": "Pistol",
+    "name": "STRYK 18c"
+  },
+  {
+    "type": "Pistol",
+    "name": "Deagle"
+  },
+  {
+    "type": "Pistol",
+    "name": "M13 9mm"
+  },
+  {
+    "type": "Pistol",
+    "name": "Gruber Kurz"
+  },
+  {
+    "type": "Pistol",
+    "name": "Signature .40"
+  },
+  {
+    "type": "Pistol",
+    "name": "Baby Deagle"
+  },
+  {
+    "type": "Pistol",
+    "name": "Contractor"
+  },
+  {
+    "type": "Pistol",
+    "name": "LEO"
+  },
+  {
+    "type": "Pistol",
+    "name": "Broomstick"
+  },
+  {
+    "type": "Pistol",
+    "name": "Peacemaker .45"
+  },
+  {
+    "type": "Pistol",
+    "name": "Matever .357"
+  },
+  {
+    "type": "Pistol",
+    "name": "Bernetti Auto"
+  },
+  {
+    "type": "Pistol",
+    "name": "Czech 92"
+  },
+  {
+    "type": "Pistol",
+    "name": "Igor Automatik"
+  },
+  {
+    "type": "Pistol",
+    "name": "HOLT 9mm"
+  },
+  {
+    "type": "Pistol",
+    "name": "Frenchman Model 87"
+  },
+  {
+    "type": "Pistol",
+    "name": "Crosskill Chunky Compact"
+  },
+  {
+    "type": "Pistol",
+    "name": "Interceptor .45"
+  },
+  {
+    "type": "Pistol",
+    "name": "Chimano Custom"
+  },
+  {
+    "type": "Pistol",
+    "name": "5/7AP"
+  },
+  {
+    "type": "Pistol",
+    "name": "Chimano Compact"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Locomotive 12G"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Goliath 12G"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Grimm 12G"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Claire 12G"
+  },
+  {
+    "type": "Shotgun",
+    "name": "GSPS 12G"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Street Sweeper"
+  },
+  {
+    "type": "Shotgun",
+    "name": "The Judge"
+  },
+  {
+    "type": "SMG",
+    "name": "Mark 10"
+  },
+  {
+    "type": "SMG",
+    "name": "Compact-5"
+  },
+  {
+    "type": "SMG",
+    "name": "CMP"
+  },
+  {
+    "type": "SMG",
+    "name": "Para"
+  },
+  {
+    "type": "SMG",
+    "name": "MP40"
+  },
+  {
+    "type": "SMG",
+    "name": "Krinkov"
+  },
+  {
+    "type": "SMG",
+    "name": "Kobus 90"
+  },
+  {
+    "type": "SMG",
+    "name": "Signature"
+  },
+  {
+    "type": "SMG",
+    "name": "Swedish K"
+  },
+  {
+    "type": "SMG",
+    "name": "SpecOps"
+  },
+  {
+    "type": "SMG",
+    "name": "CR 805B"
+  },
+  {
+    "type": "SMG",
+    "name": "Cobra"
+  },
+  {
+    "type": "SMG",
+    "name": "Micro Uzi"
+  },
+  {
+    "type": "SMG",
+    "name": "Jackal"
+  },
+  {
+    "type": "SMG",
+    "name": "Blaster 9mm"
+  },
+  {
+    "type": "SMG",
+    "name": "Kross Vertex"
+  },
+  {
+    "type": "SMG",
+    "name": "Tatonka"
+  },
+  {
+    "type": "SMG",
+    "name": "Pathcett L2A1"
+  },
+  {
+    "type": "SMG",
+    "name": "Uzi"
+  },
+  {
+    "type": "SMG",
+    "name": "AK Gen 21 Tactical"
+  },
+  {
+    "type": "SMG",
+    "name": "Chicago Typewriter"
+  },
+  {
+    "type": "SMG",
+    "name": "Jacket's Piece"
+  },
+  {
+    "type": "Special",
+    "name": "OVE9000"
+  },
+  {
+    "type": "Special",
+    "name": "Compact 40mm"
+  },
+  {
+    "type": "Special",
+    "name": "MA-17 Flamethrower"
+  },
+  {
+    "type": "Special",
+    "name": "Arbiter"
+  },
+  {
+    "type": "Special",
+    "name": "Pistoltol Crossbow"
+  },
+  {
+    "type": "Special",
+    "name": "HRL-7"
+  },
+  {
+    "type": "Special",
+    "name": "China Puff 40mm"
+  },
+  {
+    "type": "Special",
+    "name": "Commando 101"
+  }
+]

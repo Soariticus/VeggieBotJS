@@ -1,0 +1,270 @@
+[
+  {
+    "type": "stealth",
+    "name": "Breaking Feds"
+  },
+  {
+    "type": "stealth",
+    "name": "Car Shop"
+  },
+  {
+    "type": "stealth",
+    "name": "Murky Station"
+  },
+  {
+    "type": "stealth",
+    "name": "Shadow Raid"
+  },
+  {
+    "type": "stealth",
+    "name": "Yacht Heist"
+  },
+  {
+    "type": "both",
+    "name": "Art Gallery"
+  },
+  {
+    "type": "both",
+    "name": "Bank Heist"
+  },
+  {
+    "type": "both",
+    "name": "Big Oil"
+  },
+  {
+    "type": "both",
+    "name": "Border Crossing"
+  },
+  {
+    "type": "both",
+    "name": "Diamond Heist"
+  },
+  {
+    "type": "both",
+    "name": "Diamond Store"
+  },
+  {
+    "type": "both",
+    "name": "Election Day"
+  },
+  {
+    "type": "both",
+    "name": "Firestarter"
+  },
+  {
+    "type": "both",
+    "name": "First World Bank"
+  },
+  {
+    "type": "both",
+    "name": "Four Stores"
+  },
+  {
+    "type": "both",
+    "name": "Framing Frame"
+  },
+  {
+    "type": "both",
+    "name": "Go Bank"
+  },
+  {
+    "type": "both",
+    "name": "Golden Grin"
+  },
+  {
+    "type": "both",
+    "name": "Hoxton Revenge"
+  },
+  {
+    "type": "both",
+    "name": "Jewelry Store"
+  },
+  {
+    "type": "both",
+    "name": "Nightclub"
+  },
+  {
+    "type": "both",
+    "name": "San Martin Bank"
+  },
+  {
+    "type": "both",
+    "name": "Scarface Mansion"
+  },
+  {
+    "type": "both",
+    "name": "Shacklethorne Auction"
+  },
+  {
+    "type": "both",
+    "name": "The Alesso Heist"
+  },
+  {
+    "type": "both",
+    "name": "The Big Bank"
+  },
+  {
+    "type": "both",
+    "name": "The Bomb: Dockyard"
+  },
+  {
+    "type": "both",
+    "name": "The Diamond"
+  },
+  {
+    "type": "both",
+    "name": "The White House"
+  },
+  {
+    "type": "both",
+    "name": "Ukrainian Job"
+  },
+  {
+    "type": "both",
+    "name": "Mall Crasher"
+  },
+  {
+    "type": "loud",
+    "name": "No Mercy"
+  },
+  {
+    "type": "loud",
+    "name": "Aftershock"
+  },
+  {
+    "type": "loud",
+    "name": "Alaskan Deal"
+  },
+  {
+    "type": "loud",
+    "name": "Beneath the Mountain"
+  },
+  {
+    "type": "loud",
+    "name": "Birth of Sky"
+  },
+  {
+    "type": "loud",
+    "name": "Boiling Point"
+  },
+  {
+    "type": "loud",
+    "name": "Border Crystals"
+  },
+  {
+    "type": "loud",
+    "name": "Brooklyn 10-10"
+  },
+  {
+    "type": "loud",
+    "name": "Brooklyn Bank"
+  },
+  {
+    "type": "loud",
+    "name": "Cook Off"
+  },
+  {
+    "type": "loud",
+    "name": "Counterfeit"
+  },
+  {
+    "type": "loud",
+    "name": "Cursed Kill Room"
+  },
+  {
+    "type": "loud",
+    "name": "Goat Simulator"
+  },
+  {
+    "type": "loud",
+    "name": "Green Bridge"
+  },
+  {
+    "type": "loud",
+    "name": "Heat Street"
+  },
+  {
+    "type": "loud",
+    "name": "Hell's Island"
+  },
+  {
+    "type": "loud",
+    "name": "Henry's Rock"
+  },
+  {
+    "type": "loud",
+    "name": "Hotline Miami"
+  },
+  {
+    "type": "loud",
+    "name": "Hoxton Breakout"
+  },
+  {
+    "type": "loud",
+    "name": "Lab Rats"
+  },
+  {
+    "type": "loud",
+    "name": "Meltdown"
+  },
+  {
+    "type": "loud",
+    "name": "Panic Room"
+  },
+  {
+    "type": "loud",
+    "name": "Prison Nightmare"
+  },
+  {
+    "type": "loud",
+    "name": "Rats"
+  },
+  {
+    "type": "loud",
+    "name": "Reservoir Dogs Heist"
+  },
+  {
+    "type": "loud",
+    "name": "Safe House Nightmare"
+  },
+  {
+    "type": "loud",
+    "name": "Safe House Raid"
+  },
+  {
+    "type": "loud",
+    "name": "Santa's Workshop"
+  },
+  {
+    "type": "loud",
+    "name": "Slaughterhouse"
+  },
+  {
+    "type": "loud",
+    "name": "Stealing Xmas"
+  },
+  {
+    "type": "loud",
+    "name": "The Biker Heist"
+  },
+  {
+    "type": "loud",
+    "name": "The Bomb: Forest"
+  },
+  {
+    "type": "loud",
+    "name": "Transport"
+  },
+  {
+    "type": "loud",
+    "name": "Undercover"
+  },
+  {
+    "type": "loud",
+    "name": "Watchdogs"
+  },
+  {
+    "type": "loud",
+    "name": "White xmas"
+  }
+]
