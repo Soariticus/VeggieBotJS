@@ -4,6 +4,8 @@ const { token } = require('./config.json');
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
+
+
 client.commands = new Collection();
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
@@ -13,6 +15,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
+	global.timesUsed = 0;
 	console.log('Ready!');
 });
 
@@ -24,6 +27,7 @@ client.on('interactionCreate', async interaction => {
 	if (!command) return;
 
 	try {
+		global.timesUsed++;
 		await command.execute(interaction);
 	} catch (error) {
 		console.error(error);

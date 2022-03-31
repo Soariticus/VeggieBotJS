@@ -93,6 +93,10 @@
   },
   {
     "type": "Pistol",
+    "name": "Gecko M2"
+  },
+  {
+    "type": "Pistol",
     "name": "Frenchman Model 87"
   },
   {
@@ -110,6 +114,14 @@
   {
     "type": "Pistol",
     "name": "5/7AP"
+  },
+  {
+    "type": "Pistol",
+    "name": "Rus-12 Angry Tiger"
+  },
+  {
+    "type": "Pistol",
+    "name": "Kang Arms Model 54"
   },
   {
     "type": "Pistol",
@@ -142,6 +154,10 @@
   {
     "type": "Shotgun",
     "name": "The Judge"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Argos III"
   },
   {
     "type": "SMG",
@@ -225,11 +241,19 @@
   },
   {
     "type": "SMG",
+    "name": "WASP-DS"
+  },
+  {
+    "type": "SMG",
     "name": "Chicago Typewriter"
   },
   {
     "type": "SMG",
     "name": "Jacket's Piece"
+  },
+  {
+    "type": "SMG",
+    "name": "Miyaka-10"
   },
   {
     "type": "Special",
@@ -249,7 +273,7 @@
   },
   {
     "type": "Special",
-    "name": "Pistoltol Crossbow"
+    "name": "PisPistol Crossbow"
   },
   {
     "type": "Special",

@@ -104,6 +104,14 @@
       "name": "Golden AK 762"
     },
     {
+      "type": "AR",
+      "name": "Ketchnov Byk-1 Assault Rifle"
+    },
+    {
+      "type": "AR",
+      "name": "KS-12 Urban Rifle"
+    },
+    {
       "type": "LMG",
       "name": "KSP 58"
     },
@@ -220,6 +228,10 @@
       "name": "Bernetti Rangehitter"
     },
     {
+      "type": "Sniper",
+      "name": "Kang Arms X1"
+    },
+    {
       "type": "Akimbo",
       "name": "Baby Deagle"
     },
@@ -253,6 +265,10 @@
     },
     {
       "type": "Akimbo",
+      "name": "Gecko M2"
+    },
+    {
+      "type": "Akimbo",
       "name": "Deagle"
     },
     {
@@ -281,11 +297,15 @@
     },
     {
       "type": "Akimbo",
+      "name": "Kang arms Model 54"
+    },
+    {
+      "type": "Akimbo",
       "name": "STRYK 18c"
     },
     {
       "type": "Akimbo",
-      "name": "White STreak"
+      "name": "White Streak"
     },
     {
       "type": "Akimbo",
@@ -358,6 +378,10 @@
     {
       "type": "Akimbo",
       "name": "Cobra"
+    },
+    {
+      "type": "Akimbo",
+      "name": "Miyaka-10"
     },
     {
       "type": "Akimbo",
