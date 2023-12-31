@@ -36,7 +36,7 @@ module.exports = {
       .setColor("RANDOM")
       .setTitle("Payday Player Counts")
       .addFields(fieldArray)
-      .setFooter("A bot by Soariticus#0666");
+      .setFooter("A command by 0lafe");
 
     await interaction.reply({ embeds: [buildEmbed] });
   },
