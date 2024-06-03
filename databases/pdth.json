@@ -1,0 +1,42 @@
+{
+  "handguns": [
+    "Stryk Pistol",
+    "Bronco .44 Revolver",
+    "Crosskill .45 Pistol",
+    "B9-S Pistol"
+  ],
+  "primaries": [
+    "Brenner 21 Machinegun",
+    "Reinbeck Shotgun",
+    "M308 Rifle",
+    "AK Rifle",
+    "Amcar-4 Carbine"
+  ],
+  "secondaries": [
+    "Locomotive 12G Shotgun",
+    "GL40 Grenade Launcher",
+    "Compact-5 SMG",
+    "Mark 11 SMG"
+  ],
+  "deployables": [
+    "Ammo Bag",
+    "Sentry Gun",
+    "Trip Mine",
+    "Doctor Bag"
+  ],
+  "equipments": [
+    "Thick Skin",
+    "Extra Start Out Ammo",
+    "Toolkit",
+    "Extra Cable Ties"
+  ],
+  "crew_bonuses": [
+    "Sharpshooters",
+    "More Blood to Bleed",
+    "Aggressor",
+    "Big Game Hunters",
+    "Protector",
+    "Speed Reloaders",
+    "Mr. Nice Guy"
+  ]
+}
