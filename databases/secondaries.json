@@ -1,267 +1,19 @@
 [
   {
-    "type": "Pistol",
-    "name": "Chimano 88"
+    "type": "Sniper",
+    "name": "North Star Sniper Rifle"
   },
   {
-    "type": "Pistol",
-    "name": "Crosskill"
+    "type": "Sniper",
+    "name": "Pronghorn Sniper Rifle"
   },
   {
-    "type": "Pistol",
-    "name": "Bernetti 9"
-  },
-  {
-    "type": "Pistol",
-    "name": "Bronco .44"
-  },
-  {
-    "type": "Pistol",
-    "name": "White Streak"
-  },
-  {
-    "type": "Pistol",
-    "name": "Parabellum"
-  },
-  {
-    "type": "Pistol",
-    "name": "Castigo .44"
-  },
-  {
-    "type": "Pistol",
-    "name": "Crosskill Guard"
-  },
-  {
-    "type": "Pistol",
-    "name": "STRYK 18c"
-  },
-  {
-    "type": "Pistol",
-    "name": "Deagle"
-  },
-  {
-    "type": "Pistol",
-    "name": "M13 9mm"
-  },
-  {
-    "type": "Pistol",
-    "name": "Gruber Kurz"
-  },
-  {
-    "type": "Pistol",
-    "name": "Signature .40"
-  },
-  {
-    "type": "Pistol",
-    "name": "Baby Deagle"
-  },
-  {
-    "type": "Pistol",
-    "name": "Contractor"
-  },
-  {
-    "type": "Pistol",
-    "name": "LEO"
-  },
-  {
-    "type": "Pistol",
-    "name": "Broomstick"
-  },
-  {
-    "type": "Pistol",
-    "name": "Peacemaker .45"
-  },
-  {
-    "type": "Pistol",
-    "name": "Matever .357"
-  },
-  {
-    "type": "Pistol",
-    "name": "Bernetti Auto"
-  },
-  {
-    "type": "Pistol",
-    "name": "Czech 92"
-  },
-  {
-    "type": "Pistol",
-    "name": "Igor Automatik"
-  },
-  {
-    "type": "Pistol",
-    "name": "HOLT 9mm"
-  },
-  {
-    "type": "Pistol",
-    "name": "Gecko M2"
-  },
-  {
-    "type": "Pistol",
-    "name": "Frenchman Model 87"
-  },
-  {
-    "type": "Pistol",
-    "name": "Crosskill Chunky Compact"
-  },
-  {
-    "type": "Pistol",
-    "name": "Interceptor .45"
-  },
-  {
-    "type": "Pistol",
-    "name": "Chimano Custom"
-  },
-  {
-    "type": "Pistol",
-    "name": "5/7AP"
-  },
-  {
-    "type": "Pistol",
-    "name": "Rus-12 Angry Tiger"
-  },
-  {
-    "type": "Pistol",
-    "name": "Kang Arms Model 54"
-  },
-  {
-    "type": "Pistol",
-    "name": "Chimano Compact"
-  },
-  {
-    "type": "Shotgun",
-    "name": "Locomotive 12G"
-  },
-  {
-    "type": "Shotgun",
-    "name": "Goliath 12G"
-  },
-  {
-    "type": "Shotgun",
-    "name": "Grimm 12G"
-  },
-  {
-    "type": "Shotgun",
-    "name": "Claire 12G"
-  },
-  {
-    "type": "Shotgun",
-    "name": "GSPS 12G"
-  },
-  {
-    "type": "Shotgun",
-    "name": "Street Sweeper"
-  },
-  {
-    "type": "Shotgun",
-    "name": "The Judge"
-  },
-  {
-    "type": "Shotgun",
-    "name": "Argos III"
-  },
-  {
-    "type": "SMG",
-    "name": "Mark 10"
-  },
-  {
-    "type": "SMG",
-    "name": "Compact-5"
-  },
-  {
-    "type": "SMG",
-    "name": "CMP"
-  },
-  {
-    "type": "SMG",
-    "name": "Para"
-  },
-  {
-    "type": "SMG",
-    "name": "MP40"
-  },
-  {
-    "type": "SMG",
-    "name": "Krinkov"
-  },
-  {
-    "type": "SMG",
-    "name": "Kobus 90"
-  },
-  {
-    "type": "SMG",
-    "name": "Signature"
-  },
-  {
-    "type": "SMG",
-    "name": "Swedish K"
-  },
-  {
-    "type": "SMG",
-    "name": "SpecOps"
-  },
-  {
-    "type": "SMG",
-    "name": "CR 805B"
-  },
-  {
-    "type": "SMG",
-    "name": "Cobra"
-  },
-  {
-    "type": "SMG",
-    "name": "Micro Uzi"
-  },
-  {
-    "type": "SMG",
-    "name": "Jackal"
-  },
-  {
-    "type": "SMG",
-    "name": "Blaster 9mm"
-  },
-  {
-    "type": "SMG",
-    "name": "Kross Vertex"
-  },
-  {
-    "type": "SMG",
-    "name": "Tatonka"
-  },
-  {
-    "type": "SMG",
-    "name": "Pathcett L2A1"
-  },
-  {
-    "type": "SMG",
-    "name": "Uzi"
-  },
-  {
-    "type": "SMG",
-    "name": "AK Gen 21 Tactical"
-  },
-  {
-    "type": "SMG",
-    "name": "WASP-DS"
-  },
-  {
-    "type": "SMG",
-    "name": "Chicago Typewriter"
-  },
-  {
-    "type": "SMG",
-    "name": "Jacket's Piece"
-  },
-  {
-    "type": "SMG",
-    "name": "Miyaka-10"
+    "type": "Sniper",
+    "name": "Aran G2 Sniper Rifle"
   },
   {
     "type": "Special",
-    "name": "OVE9000"
-  },
-  {
-    "type": "Special",
-    "name": "Compact 40mm"
+    "name": "Arbiter Grenade Launcher"
   },
   {
     "type": "Special",
@@ -269,22 +21,294 @@
   },
   {
     "type": "Special",
-    "name": "Arbiter"
+    "name": "Compact 40mm Grenade Launcher"
   },
   {
     "type": "Special",
-    "name": "PisPistol Crossbow"
+    "name": "HRL-7 Rocket Launcher"
   },
   {
     "type": "Special",
-    "name": "HRL-7"
+    "name": "Basilisk 3V Grenade Launcher"
   },
   {
     "type": "Special",
-    "name": "China Puff 40mm"
+    "name": "Commando 101 Rocket Launcher"
   },
   {
     "type": "Special",
-    "name": "Commando 101"
+    "name": "Saw"
+  },
+  {
+    "type": "Special",
+    "name": "China Puff 40mm Grenade Launcher"
+  },
+  {
+    "type": "Special",
+    "name": "Pistol Crossbow"
+  },
+  {
+    "type": "Pistol",
+    "name": "Czech 92 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Crosskill Chunky Compact Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Bernetti 9 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Deagle Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Igor Automatik Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Peacemaker .45 Revolver"
+  },
+  {
+    "type": "Pistol",
+    "name": "LEO Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Broomstick Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Castigo .44 Revolver"
+  },
+  {
+    "type": "Pistol",
+    "name": "Káng Arms Model 54 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Kahn .357 Revolver"
+  },
+  {
+    "type": "Pistol",
+    "name": "Baby Deagle"
+  },
+  {
+    "type": "Pistol",
+    "name": "Interceptor 45 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Gruber Kurz Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Crosskill Guard Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Bernetti Auto Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Chimano Custom Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Gecko"
+  },
+  {
+    "type": "Pistol",
+    "name": "Bronco"
+  },
+  {
+    "type": "Pistol",
+    "name": "HOLT 9mm Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Contractor Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "White Streak Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Crosskill Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Signature .40 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "STRYK 18c Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Gecko M2 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "M13 9mm Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Frenchman Model 87 Revolver"
+  },
+  {
+    "type": "Pistol",
+    "name": "Matever .357 Revolver"
+  },
+  {
+    "type": "Pistol",
+    "name": "5\/7 AP Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "RUS-12 Angry Tiger Revolver"
+  },
+  {
+    "type": "Pistol",
+    "name": "Chimano 88 Pistol"
+  },
+  {
+    "type": "Pistol",
+    "name": "Parabellum Pistol"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Grimm 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "GSPS 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "The Judge Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Claire 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Locomotive 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Argos III Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Street Sweeper Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Goliath 12G Shotgun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Jacket's Piece"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Micro Uzi Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Chicago Typewriter Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "CMP Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Kross Vertex Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "AK Gen 21 Tactical Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Wasp-DS SMG"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "CR 805B Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Cobra Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Swedish K Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Kobus 90 Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Blaster 9mm Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Para Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Krinkov Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Compact 5"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Heather Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Mark 10 Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Signature Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "MP40 Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "SpecOps Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Tatonka Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Patchett L2A1 Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Miyaka 10 Special Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Uzi Submachine Gun"
+  },
+  {
+    "type": "Submachine Gun",
+    "name": "Jackal Submachine Gun"
   }
 ]

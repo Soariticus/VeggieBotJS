@@ -1,506 +1,546 @@
 [
-    {
-      "type": "AR",
-      "name": "AMCAR"
-    },
-    {
-      "type": "AR",
-      "name": "AK"
-    },
-    {
-      "type": "AR",
-      "name": "CAR4"
-    },
-    {
-      "type": "AR",
-      "name": "UAR"
-    },
-    {
-      "type": "AR",
-      "name": "AK.762"
-    },
-    {
-      "type": "AR",
-      "name": "JP36"
-    },
-    {
-      "type": "AR",
-      "name": "Galant"
-    },
-    {
-      "type": "AR",
-      "name": "M308"
-    },
-    {
-      "type": "AR",
-      "name": "AK5"
-    },
-    {
-      "type": "AR",
-      "name": "AMR-16"
-    },
-    {
-      "type": "AR",
-      "name": "Tempest-21"
-    },
-    {
-      "type": "AR",
-      "name": "Union 5.56"
-    },
-    {
-      "type": "AR",
-      "name": "Commando 553"
-    },
-    {
-      "type": "AR",
-      "name": "Eagle Heavy"
-    },
-    {
-      "type": "AR",
-      "name": "Cavity 9mm"
-    },
-    {
-      "type": "AR",
-      "name": "AK17"
-    },
-    {
-      "type": "AR",
-      "name": "Bootleg"
-    },
-    {
-      "type": "AR",
-      "name": "Queen's Wrath"
-    },
-    {
-      "type": "AR",
-      "name": "Clarion"
-    },
-    {
-      "type": "AR",
-      "name": "Lion's Roar"
-    },
-    {
-      "type": "AR",
-      "name": "Valkyria"
-    },
-    {
-      "type": "AR",
-      "name": "Gecko 7.62"
-    },
-    {
-      "type": "AR",
-      "name": "Little Friend 7.62"
-    },
-    {
-      "type": "AR",
-      "name": "Falcon"
-    },
-    {
-      "type": "AR",
-      "name": "Gewehr 3"
-    },
-    {
-      "type": "AR",
-      "name": "Golden AK 762"
-    },
-    {
-      "type": "AR",
-      "name": "Ketchnov Byk-1 Assault Rifle"
-    },
-    {
-      "type": "AR",
-      "name": "KS-12 Urban Rifle"
-    },
-    {
-      "type": "LMG",
-      "name": "KSP 58"
-    },
-    {
-      "type": "LMG",
-      "name": "RPK"
-    },
-    {
-      "type": "LMG",
-      "name": "KSP"
-    },
-    {
-      "type": "LMG",
-      "name": "Buzzsaw 42"
-    },
-    {
-      "type": "LMG",
-      "name": "Brenner 21"
-    },
-    {
-      "type": "LMG",
-      "name": "M60"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Reinfeld 880"
-    },
-    {
-      "type": "Shotgun",
-      "name": "IZHMA 12G"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Mosconi 12G"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Breaker 12G"
-    },
-    {
-      "type": "Shotgun",
-      "name": "M1014"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Raven"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Steakout 12G"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Reinfeld 88"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Mosconi 12G Tactical"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Predator 12G"
-    },
-    {
-      "type": "Shotgun",
-      "name": "Joceline O/U 12G"
-    },
-    {
-      "type": "Sniper",
-      "name": "Platypus 70"
-    },
-    {
-      "type": "Sniper",
-      "name": "Rattlesnake"
-    },
-    {
-      "type": "Sniper",
-      "name": "Lebensauger .308"
-    },
-    {
-      "type": "Sniper",
-      "name": "Desertfox"
-    },
-    {
-      "type": "Sniper",
-      "name": "Contractor .308"
-    },
-    {
-      "type": "Sniper",
-      "name": "R93"
-    },
-    {
-      "type": "Sniper",
-      "name": "Repeater 1874"
-    },
-    {
-      "type": "Sniper",
-      "name": "Grom"
-    },
-    {
-      "type": "Sniper",
-      "name": "Nagant"
-    },
-    {
-      "type": "Sniper",
-      "name": "Thanatos .50 cal"
-    },
-    {
-      "type": "Sniper",
-      "name": "R700"
-    },
-    {
-      "type": "Sniper",
-      "name": "Bernetti Rangehitter"
-    },
-    {
-      "type": "Sniper",
-      "name": "Kang Arms X1"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Baby Deagle"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Bernetti 9"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Bronco .44"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Broomstick"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Chimano 88"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Chimano Compact"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Chimano Custom"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Crosskill"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Gecko M2"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Deagle"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Gruber Kurz"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Interceptor 45"
-    },
-    {
-      "type": "Akimbo",
-      "name": "LEO"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Matever .357"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Parabellum"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Signature .40"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Kang arms Model 54"
-    },
-    {
-      "type": "Akimbo",
-      "name": "STRYK 18c"
-    },
-    {
-      "type": "Akimbo",
-      "name": "White Streak"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Castigo .44"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Crosskill Guard"
-    },
-    {
-      "type": "Akimbo",
-      "name": "M13 9mm"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Contractor"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Bernetti Auto"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Czech 92"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Igor Automatik"
-    },
-    {
-      "type": "Akimbo",
-      "name": "HOLT 9mm"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Frenchman 87"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Crosskill Chunky Compact"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Goliath 12G"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Judge"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Brothers Grimm 12G"
-    },
-    {
-      "type": "Akimbo",
-      "name": "AK Gen 21 Tactical"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Blaster 9mm"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Chicago Typewriter"
-    },
-    {
-      "type": "Akimbo",
-      "name": "CMP"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Cobra"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Miyaka-10"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Compact-5"
-    },
-    {
-      "type": "Akimbo",
-      "name": "CR 805B"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Heather"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Jackal"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Jacket's Piece"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Kobus 90"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Krinkov"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Kross Vertex"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Mark 10"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Micro Uzi"
-    },
-    {
-      "type": "Akimbo",
-      "name": "MP40"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Para"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Patchett L2A1"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Signature"
-    },
-    {
-      "type": "Akimbo",
-      "name": "SpecOps"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Swedish K"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Tatonka"
-    },
-    {
-      "type": "Akimbo",
-      "name": "Uzi"
-    },
-    {
-      "type": "Special",
-      "name": "OVE9000"
-    },
-    {
-      "type": "Special",
-      "name": "XL 5.56 Microgun"
-    },
-    {
-      "type": "Special",
-      "name": "DECA Technologies Compound Bow"
-    },
-    {
-      "type": "Special",
-      "name": "Airbow"
-    },
-    {
-      "type": "Special",
-      "name": "PlainSniperider Bow"
-    },
-    {
-      "type": "Special",
-      "name": "Light Crossbow"
-    },
-    {
-      "type": "Special",
-      "name": "English Longbow"
-    },
-    {
-      "type": "Special",
-      "name": "Heavy Crossbow"
-    },
-    {
-      "type": "Special",
-      "name": "Vulcan Minigun"
-    },
-    {
-      "type": "Special",
-      "name": "Piglet"
-    },
-    {
-      "type": "Special",
-      "name": "Flamethrower Mk.1"
-    },
-    {
-      "type": "Special",
-      "name": "GL40"
-    }
+  {
+    "type": "Special",
+    "name": "Heavy Crossbow"
+  },
+  {
+    "type": "Special",
+    "name": "Hailstorm Mk 5"
+  },
+  {
+    "type": "Special",
+    "name": "Airbow"
+  },
+  {
+    "type": "Special",
+    "name": "Plainsrider Bow"
+  },
+  {
+    "type": "Special",
+    "name": "Vulcan Minigun"
+  },
+  {
+    "type": "Special",
+    "name": "English Longbow"
+  },
+  {
+    "type": "Special",
+    "name": "GL40 Grenade Launcher"
+  },
+  {
+    "type": "Special",
+    "name": "XL 5.56 Microgun"
+  },
+  {
+    "type": "Special",
+    "name": "OVE9000 Saw"
+  },
+  {
+    "type": "Special",
+    "name": "Piglet Grenade Launcher"
+  },
+  {
+    "type": "Special",
+    "name": "Light Crossbow"
+  },
+  {
+    "type": "Special",
+    "name": "Flamethrower Mk.1"
+  },
+  {
+    "type": "Special",
+    "name": "DECA Technologies Compound Bow"
+  },
+  {
+    "type": "Sniper",
+    "name": "R700 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Platypus 70 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "R93 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Desertfox Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Lebensauger .308 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Grom Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Bernetti Rangehitter Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Nagant Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Rattlesnake Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Amaroq 900 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Káng Arms X1 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Thanatos .50 cal Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Repeater 1874 Sniper Rifle"
+  },
+  {
+    "type": "Sniper",
+    "name": "Contractor .308 Sniper Rifle"
+  },
+  {
+    "type": "LMG",
+    "name": "KSP 58 Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "SG Versteckt 51D Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "Brenner-21 Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "RPK Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "M60 Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "Campbell 74 LMG"
+  },
+  {
+    "type": "LMG",
+    "name": "Buzzsaw 42 Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "KSP Light Machine Gun"
+  },
+  {
+    "type": "LMG",
+    "name": "Akron HC Light Machine Gun"
+  },
+  {
+    "type": "Akimbo Shotgun",
+    "name": "Akimbo VD-12 Shotguns"
+  },
+  {
+    "type": "Akimbo Shotgun",
+    "name": "Akimbo Judge Shotguns"
+  },
+  {
+    "type": "Akimbo Shotgun",
+    "name": "Akimbo Goliath 12G Shotguns"
+  },
+  {
+    "type": "Akimbo Shotgun",
+    "name": "Brothers Grimm 12G Shotguns"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Raven Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Breaker 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "IZHMA 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Mosconi 12G Tactical Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "VD-12 Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Mosconi 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Reinfeld 88 Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Deimos Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "M1014 Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Reinfeld 880 Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Steakout 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Predator 12G Shotgun"
+  },
+  {
+    "type": "Shotgun",
+    "name": "Joceline O\/U 12G Shotgun"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "AMR-16 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Falcon Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Rodion 3B Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Clarion Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Golden AK.762 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "JP36 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "AK Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "AK-17"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Lion's Roar Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "M308"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Union 5.56 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Galant Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Valkyria Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Cavity 9mm"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Little Friend 7.62 Assault Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Gecko 7.62 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Car-4"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Queen's Wrath Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Eagle Heavy Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "AMCAR Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "AK5 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "UAR Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Bootleg Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Commando 553 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "KS12 Urban Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "KETCHNOV Byk-1 Assault Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "AK.762 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Gewehr 3 Rifle"
+  },
+  {
+    "type": "Assault Rifle",
+    "name": "Tempest-21 Rifle"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo AK Gen 21 Tactical SMGs"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo CR 805B Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Jacket's Piece"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Heather Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Micro Uzi Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo MP40 Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Chicago Typewriter SMGs"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Uzi Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Blaster 9mm Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Kross Vertex Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo CMP Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Mark 10 Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Miyaka 10 Special SMGs"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Swedish K Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Patchett L2A1 Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Compact-5 Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Cobra Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo SpecOps Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Krinkov Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Para Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Tatonka Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Jackal Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Kobus 90 Submachine Guns"
+  },
+  {
+    "type": "Akimbo SMG",
+    "name": "Akimbo Signature Submachine Guns"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Crosskill Guard Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Bernetti Auto Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Crosskill Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Contractor Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Káng Arms Model 54 Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Signature .40 Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Czech 92 Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo STRYK 18c Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Bronco .44 Revolvers"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Baby Deagle Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo M13 9mm Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Kahn .357 Revolvers"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Igor Automatik Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Matever .357 Revolvers"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Crosskill Chunky Compact Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Deagle Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Interceptor 45 Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo White Streak Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo LEO Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Parabellum Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Gecko M2 Pistols "
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Gruber Kurz Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Frenchman Model 87 Revolvers"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo HOLT 9mm Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Chimano Compact Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Broomstick Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Chimano 88 Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Castigo .44 Revolvers"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Chimano Custom Pistols"
+  },
+  {
+    "type": "Akimbo Pistol",
+    "name": "Akimbo Bernetti 9 Pistols"
+  }
 ]
