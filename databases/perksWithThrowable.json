@@ -1,20 +1,8 @@
-[
-  {
-    "name": "Kingpin"
-  },
-  {
-    "name": "Sicario"
-  },
-  {
-    "name": "Stoic"
-  },
-  {
-    "name": "Tag Team"
-  },
-  {
-    "name": "Hacker"
-  },
-  {
-    "name": "Leech"
-  }
-]
+{
+  "Kingpin": "Injector",
+  "Sicario": "Smoke Bomb",
+  "Stoic": "Flask",
+  "Tag Team": "Vape",
+  "Hacker": "Pocket ECM",
+  "Leech": "Ampule"
+}

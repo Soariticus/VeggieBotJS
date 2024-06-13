@@ -8,11 +8,6 @@ const deployable = require("../databases/deployable.json");
 const perk = require("../databases/perk.json");
 const throwable = require("../databases/throwables.json");
 const perkWithThrowable = require("../databases/perksWithThrowable.json");
-var perkWithThrowableArray = [];
-
-for (x in perkWithThrowable) {
-  perkWithThrowableArray.push(perkWithThrowable[x]["name"]);
-}
 
 module.exports = {
   data: new SlashCommandBuilder()
@@ -26,22 +21,24 @@ module.exports = {
       deployable[Math.floor(Math.random() * deployable.length)];
     var ranPerk = perk[Math.floor(Math.random() * perk.length)];
     var ranThrowable = throwable[Math.floor(Math.random() * throwable.length)];
-    var processedThrowable = {
-      name: "Throwable",
-      value: ranThrowable["name"],
-      inline: true,
-    }; // We turn throwable into a dictionary in advance
+
+    const processedThrowable = (throwableName) => {
+      return {
+        name: "Throwable",
+        value: throwableName,
+        inline: true,
+      };
+    };
 
     var fieldArray = [
-      // All of the dictionaries get slapped into an array
       {
         name: "Primary",
-        value: `${ranPrim["type"]}: ${ranPrim["name"]}`,
+        value: ranPrim["name"],
         inline: true,
       },
       {
         name: "Secondary",
-        value: `${ranSec["type"]}: ${ranSec["name"]}`,
+        value: ranSec["name"],
         inline: true,
       },
       { name: "Armor", value: ranArmor["name"], inline: true },
@@ -49,16 +46,10 @@ module.exports = {
       { name: "Deployable", value: ranDeployable["name"], inline: true },
     ];
 
-    var uniqueThrow = false; // By default, we assume it is not a unique throwable
-    for (var i = 0; i < perkWithThrowableArray.length; i++) {
-      if (ranPerk["name"] == perkWithThrowableArray[i]) {
-        // If the perkdeck has a unique throwable, we make the uniqueThrow var true
-        uniqueThrow = true;
-      }
-    }
-    if (uniqueThrow == false) {
-      // Only if the perk deck doesn't have a unique throwable do we add it to the array
-      fieldArray.push(processedThrowable);
+    if (perkWithThrowable[ranPerk["name"]]) {
+      fieldArray.push(processedThrowable(perkWithThrowable[ranPerk["name"]]));
+    } else {
+      fieldArray.push(processedThrowable(ranThrowable["name"]));
     }
 
     const buildEmbed = new MessageEmbed() // Building the embed
