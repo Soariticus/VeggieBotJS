@@ -10,6 +10,7 @@ module.exports = {
       { name: "Payday: The Heist", id: 24240 },
       { name: "Payday 2", id: 218620 },
       { name: "Payday 3", id: 1272080 },
+      { name: "Crime Boss: Rockay City", id: 2933080 },
     ];
 
     let fieldArray;
