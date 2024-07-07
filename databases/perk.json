@@ -1,71 +1,228 @@
 [
   {
-    "name": "Crew Chief"
+    "name": "Crew Chief",
+    "armors": [
+      "suit",
+      "bv",
+      "lbv",
+      "hbv",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Muscle"
+    "name": "Muscle",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Armorer"
+    "name": "Armorer",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Rogue"
+    "name": "Rogue",
+    "armors": [
+      "suit",
+      "lbv"
+    ]
   },
   {
-    "name": "Crook"
+    "name": "Crook",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv"
+    ]
   },
   {
-    "name": "Hitman"
+    "name": "Hitman",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Burglar"
+    "name": "Burglar",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv"
+    ]
   },
   {
-    "name": "Infiltrator"
+    "name": "Infiltrator",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Sociopath"
+    "name": "Sociopath",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "flak",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Gambler"
+    "name": "Gambler",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Grinder"
+    "name": "Grinder",
+    "armors": [
+      "suit",
+      "lbv"
+    ]
   },
   {
-    "name": "Yakuza"
+    "name": "Yakuza",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "bv",
+      "ictv"
+    ]
   },
   {
-    "name": "Ex-President"
+    "name": "Ex-President",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Maniac"
+    "name": "Maniac",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Anarchist"
+    "name": "Anarchist",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "flak",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Biker"
+    "name": "Biker",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Kingpin"
+    "name": "Kingpin",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Sicario"
+    "name": "Sicario",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Stoic"
+    "name": "Stoic",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "flak",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Tag Team"
+    "name": "Tag Team",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "ctv",
+      "ictv"
+    ]
   },
   {
-    "name": "Leech"
+    "name": "Leech",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Hacker"
+    "name": "Hacker",
+    "armors": [
+      "suit",
+      "lbv",
+      "hbv",
+      "ictv"
+    ]
   },
   {
-    "name": "Copy Cat"
+    "name": "Copy Cat",
+    "armors": [
+      "suit",
+      "lbv",
+      "bv",
+      "hbv",
+      "flak",
+      "ctv",
+      "ictv"
+    ]
   }
 ]

@@ -1,23 +1,30 @@
 [
   {
-    "name": "Two-Piece Suit"
+    "name": "Two-Piece Suit",
+    "id": "suit"
   },
   {
-    "name": "Ballistic Vest"
+    "name": "Ballistic Vest",
+    "id": "bv"
   },
   {
-    "name": "Lightweight Ballistic Vest"
+    "name": "Lightweight Ballistic Vest",
+    "id": "lbv"
   },
   {
-    "name": "Heavy Ballistic Vest"
+    "name": "Heavy Ballistic Vest",
+    "id": "hbv"
   },
   {
-    "name": "Flak Jacket"
+    "name": "Flak Jacket",
+    "id": "flak"
   },
   {
-    "name": "Combined Tactical Vest"
+    "name": "Combined Tactical Vest",
+    "id": "ctv"
   },
   {
-    "name": "Improved Combined Tactical Vest"
+    "name": "Improved Combined Tactical Vest",
+    "id": "ictv"
   }
 ]

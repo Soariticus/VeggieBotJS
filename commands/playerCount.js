@@ -9,8 +9,10 @@ module.exports = {
     const games = [
       { name: "Payday: The Heist", id: 24240 },
       { name: "Payday 2", id: 218620 },
+      { name: "RAID: World War II", id: 414740 },
       { name: "Payday 3", id: 1272080 },
       { name: "Crime Boss: Rockay City", id: 2933080 },
+      { name: "One-armed robber", id: 2551020 },
     ];
 
     let fieldArray;

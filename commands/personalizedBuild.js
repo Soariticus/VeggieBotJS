@@ -54,7 +54,11 @@ module.exports = {
     let counter = 0;
 
     const primaries = reply.weapon_stats.filter((stat) => {
-      if (primaryWeapons[stat[0]] && counter < limit) {
+      if (
+        primaryWeapons[stat[0]] &&
+        stat[1] != 0 &&
+        counter < limit
+      ) {
         counter++;
         return stat[0];
       }
@@ -62,18 +66,21 @@ module.exports = {
 
     counter = 0;
     const secondaries = reply.weapon_stats.filter((stat) => {
-      if (secondaryWeapons[stat[0]] && counter < limit) {
+      if (secondaryWeapons[stat[0]] && stat[1] != 0 && counter < limit) {
         counter++;
         return true;
       }
     });
-
+    
     var ranPrim = primaries[Math.floor(Math.random() * primaries.length)][0];
     var ranSec = secondaries[Math.floor(Math.random() * secondaries.length)][0];
-    var ranArmor = armor[Math.floor(Math.random() * armor.length)];
+    var ranPerk = perk[Math.floor(Math.random() * perk.length)];
+
+    const randomArmorID = ranPerk.armors[Math.floor(Math.random() * ranPerk.armors.length)]
+    const ranArmor = armor.find((armor) => { return armor.id === randomArmorID })
+
     var ranDeployable =
       deployable[Math.floor(Math.random() * deployable.length)];
-    var ranPerk = perk[Math.floor(Math.random() * perk.length)];
     var ranThrowable = throwable[Math.floor(Math.random() * throwable.length)];
 
     const processedThrowable = (throwableName) => {
