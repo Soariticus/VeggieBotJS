@@ -1,0 +1,1 @@
+After the sad end of the support on discord.py, and lack of future updates for it to work with the discord API, I had to rewrite it in a better supported language. Discord.js was chosen for this, and VeggieBot was rewritten in JS. This was my first proper venture into usage of JavaScript for a full project, and it's plain to see.
